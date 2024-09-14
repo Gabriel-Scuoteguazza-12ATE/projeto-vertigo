@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: "Titillium Web", sans-serif;
 }
+
 :root {
     --gray-800: #1E293B;
     --gray-600: #475569;
@@ -37,7 +38,7 @@ main {
 .descricao h1 {
     color: var(--gray-800);
     margin-bottom: 1rem;
-    font-size: 1.5625;
+    font-size: 1.5625rem;
 }
 
 
@@ -59,7 +60,7 @@ main {
     align-items: center;
 }
 
-.login label{
+.login label {
     font-size: 0.875rem;
     color: var(--gray-800);
     font-weight: 600;
