@@ -129,6 +129,7 @@ main {
 @media(min-width: 1000px) {
     body {
         display: flex;
+        height: 100vh;
     }
 
     header {
